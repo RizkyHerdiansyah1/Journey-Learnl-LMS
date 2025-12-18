@@ -139,6 +139,7 @@ CREATE TABLE hasil_kuis (
 ## 🚀 Cara Instalasi
 
 1.  **Clone / Download Project:**
+    download semua file yang berada di repository ini
     Simpan folder proyek `LMS` ke dalam direktori server lokal Anda (contoh: `C:\xampp\htdocs\LMS`).
 
 2.  **Setup Database:**
@@ -166,3 +167,4 @@ CREATE TABLE hasil_kuis (
 
 Project ini dibuat untuk keperluan tugas akademik / pengembangan edukasi.
 Codebase bebas digunakan dan dimodifikasi untuk tujuan pembelajaran.
+
