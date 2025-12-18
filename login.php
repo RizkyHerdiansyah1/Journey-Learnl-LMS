@@ -158,7 +158,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 <small class="text-muted d-block mb-2">📌 <strong>Akun Demo:</strong></small>
                 <small class="text-muted d-block">
                     <strong>Dosen:</strong> budi.dosen@gmail.com<br>
-                    <strong>Mahasiswa:</strong> rizkyherdiansyahr@gmail.com<br>
+                    <strong>Mahasiswa:</strong> user.123@gmail.com<br>
                     <strong>Password:</strong> password123
                 </small>
             </div>
@@ -167,5 +167,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+
 
 </html>
